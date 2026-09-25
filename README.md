@@ -48,9 +48,9 @@ Proyecto de análisis estadístico desarrollado en Python sobre el dataset **Lif
 3. Abrir los notebooks en Jupyter o Google Colab y ejecutar las celdas en orden (cada notebook carga el dataset directamente desde su URL en GitHub).
 
 ## Autor
-Iván Órdenes
+
 Erika Ehlen
 Nicolas Gonzales
 Alicia Pereira
-
-Iván Ordenes — Proyecto realizado como parte del curso de Análisis de Datos / Estadística.
+Iván Ordenes 
+###Proyecto realizado como parte del curso de Análisis de Datos / Estadística.###
