@@ -50,7 +50,11 @@ Proyecto de análisis estadístico desarrollado en Python sobre el dataset **Lif
 ## Autor
 
 Erika Ehlen
+
 Nicolas Gonzales
+
 Alicia Pereira
-Iván Ordenes 
-###Proyecto realizado como parte del curso de Análisis de Datos / Estadística.###
+
+Iván Ordenes
+
+Proyecto realizado como parte del curso de Análisis de Datos / Estadística.#
