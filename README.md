@@ -6,7 +6,7 @@ Proyecto de análisis estadístico desarrollado en Python sobre el dataset **Lif
 
 ## Estructura del proyecto
 
-### 📊 Laboratorio 1 — Análisis Exploratorio de Datos (`Expectativa_de_vida.ipynb`)
+### Laboratorio 1 — Análisis Exploratorio de Datos (`Expectativa_de_vida.ipynb`)
 - Caracterización de las 22 variables del dataset (demográficas, de mortalidad, económicas y de inmunización).
 - Mapa de calor de correlaciones para identificar las variables más asociadas a la expectativa de vida.
 - Cálculo de medidas de tendencia central y dispersión sobre las variables de interés (Escolaridad, IDH, IMC, delgadez).
@@ -14,13 +14,13 @@ Proyecto de análisis estadístico desarrollado en Python sobre el dataset **Lif
 - Detección y eliminación de outliers mediante rango intercuartílico (IQR) y diagramas de caja.
 - Definición de la pregunta de investigación del proyecto.
 
-### 🎲 Laboratorio 2 — Simulación e Inferencia (`Parte_2.ipynb`)
+###  Laboratorio 2 — Simulación e Inferencia (`Parte_2.ipynb`)
 - Estimación puntual del IDH a partir de sus tres componentes (salud, educación e ingresos).
 - Remuestreo **Bootstrap** (10.000 repeticiones) para estimar la distribución de la media del IDH y de la pendiente entre escolaridad y expectativa de vida.
 - **Simulación de Monte Carlo** para evaluar la sensibilidad del IDH ante variaciones en los años de escolaridad, modelando la variable mediante una distribución Beta ajustada a los datos reales.
 - Comparación entre resultados de estimación puntual y remuestreo.
 
-### 📐 Laboratorio 3 — Intervalos de Confianza y Test de Hipótesis (`Parte_3.ipynb`)
+###  Laboratorio 3 — Intervalos de Confianza y Test de Hipótesis (`Parte_3.ipynb`)
 - Cálculo de intervalos de confianza (95,4%) para la media del IDH y para la pendiente escolaridad–expectativa de vida, vía Bootstrap.
 - Análisis del tamaño muestral y nivel de significancia necesarios para reducir la incertidumbre en un 55%.
 - Prueba de bondad de ajuste (Anderson-Darling).
@@ -48,5 +48,9 @@ Proyecto de análisis estadístico desarrollado en Python sobre el dataset **Lif
 3. Abrir los notebooks en Jupyter o Google Colab y ejecutar las celdas en orden (cada notebook carga el dataset directamente desde su URL en GitHub).
 
 ## Autor
+Iván Órdenes
+Erika Ehlen
+Nicolas Gonzales
+Alicia Pereira
 
 Iván Ordenes — Proyecto realizado como parte del curso de Análisis de Datos / Estadística.
