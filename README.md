@@ -57,4 +57,4 @@ Alicia Pereira
 
 Iván Ordenes
 
-Proyecto realizado como parte del curso de Análisis de Datos / Estadística.#
+Proyecto realizado como parte del curso de Análisis de Datos / Estadística.
