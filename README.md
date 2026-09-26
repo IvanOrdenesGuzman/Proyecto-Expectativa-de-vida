@@ -29,7 +29,6 @@ Proyecto de analisis estadistico desarrollado en Python sobre el dataset **Life 
 │   ├── bootstrap_media_idh.png
 │   └── residuos_regresion.png
 ├── requirements.txt
-├── LICENSE
 └── README.md
 ```
 
@@ -79,26 +78,22 @@ Proyecto de analisis estadistico desarrollado en Python sobre el dataset **Life 
 
 ## Como ejecutar
 
-1. Clonar el repositorio:
-   ```
-   git clone https://github.com/ivanordenes/analisis-datos.git
-   cd analisis-datos
-   ```
+1. Clonar el repositorio.
 2. Instalar dependencias:
    ```
    pip install -r requirements.txt
    ```
 3. Abrir los notebooks en Jupyter o Google Colab y ejecutar las celdas en orden (cada notebook carga el dataset directamente desde su URL en GitHub).
 
-## Limitaciones y proximos pasos
-
-- El modelo de regresion usa una unica variable explicativa (escolaridad); la expectativa de vida es multicausal, por lo que un modelo multivariado podria mejorar el ajuste (R² actual: 0.37).
-- La relacion escolaridad-IDH se trata como aproximadamente independiente por simplicidad, aunque en la practica ambas variables se afectan mutuamente en el tiempo.
-
-## Licencia
-
-Este proyecto esta bajo la licencia MIT. Ver el archivo [LICENSE](LICENSE) para mas detalles.
 
 ## Autor
 
-Ivan Ordenes - Proyecto realizado como parte del curso de Analisis de Datos / Estadistica.
+Ivan Ordenes
+
+Erika Ehlen
+
+Nicolas Gonzales
+
+Alicia Pereira
+
+- Proyecto realizado como parte del curso de Analisis de Datos / Estadistica.
