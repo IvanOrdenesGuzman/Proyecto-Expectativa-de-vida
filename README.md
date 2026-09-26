@@ -42,8 +42,8 @@ Proyecto de analisis estadistico desarrollado en Python sobre el dataset **Life 
 - Deteccion y eliminacion de outliers mediante rango intercuartilico (IQR) y diagramas de caja.
 - Definicion de la pregunta de investigacion del proyecto.
 
-![Mapa de calor de correlaciones](img/mapa_calor_correlaciones.png)
-![IDH vs Esperanza de vida](img/idh_vs_esperanza_vida.png)
+![Mapa de calor de correlaciones](images/mapa_calor_correlaciones.png)
+![IDH vs Esperanza de vida](images/idh_vs_esperanza_vida.png)
 
 ### Laboratorio 2 - Simulacion e Inferencia (`notebooks/Parte_2.ipynb`)
 - Estimacion puntual del IDH a partir de sus tres componentes (salud, educacion e ingresos).
@@ -51,7 +51,7 @@ Proyecto de analisis estadistico desarrollado en Python sobre el dataset **Life 
 - **Simulacion de Monte Carlo** para evaluar la sensibilidad del IDH ante variaciones en los anios de escolaridad, modelando la variable mediante una distribucion Beta ajustada a los datos reales.
 - Comparacion entre resultados de estimacion puntual y remuestreo.
 
-![Distribucion Bootstrap de la media del IDH](img/bootstrap_media_idh.png)
+![Distribucion Bootstrap de la media del IDH](images/bootstrap_media_idh.png)
 
 ### Laboratorio 3 - Intervalos de Confianza y Test de Hipotesis (`notebooks/Parte_3.ipynb`)
 - Calculo de intervalos de confianza (95.4%) para la media del IDH y para la pendiente escolaridad-expectativa de vida, via Bootstrap.
@@ -62,7 +62,7 @@ Proyecto de analisis estadistico desarrollado en Python sobre el dataset **Life 
 - Regresion lineal (calculo manual de pendiente, intercepto, R² y p-value) y analisis de residuos.
 - Bonus: replica de la regresion con **scikit-learn** y clasificacion de paises (Desarrollado / En desarrollo) mediante regresion logistica.
 
-![Residuos vs valores ajustados](img/residuos_regresion.png)
+![Residuos vs valores ajustados](images/residuos_regresion.png)
 
 ## Dataset
 
